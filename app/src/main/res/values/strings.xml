@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">localstore</string>
+    <string name="InternalStorage">localstore</string>
+    <string name="ExternalStorage">localstore</string>
+</resources>
