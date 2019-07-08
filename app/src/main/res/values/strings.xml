@@ -2,4 +2,6 @@
     <string name="app_name">localstore</string>
     <string name="InternalStorage">localstore</string>
     <string name="ExternalStorage">localstore</string>
+    <string name="show">localstore</string>
+    <string name="save">localstore</string>
 </resources>

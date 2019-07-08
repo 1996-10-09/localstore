@@ -13,11 +13,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void externalStorage(View view){
-        Intent intent= new Intent(this,ExternalStorage.class);
-        startActivity(intent);
+        Intent intentone= new Intent(this,ExternalStorage.class);
+        startActivity(intentone);
     }
     public void internalStorage(View view){
-        Intent intent= new Intent(this,ExternalStorage.class);
+        Intent intent= new Intent(this,InternalStorage.class);
         startActivity(intent);
     }
 }
